@@ -1,0 +1,19 @@
+/* <om: er98-d847-vhfh-3487> */
+
+.os {
+    font-size: 14px;
+}
+
+.os .icon {
+    font-size: 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.unity-list-view__empty-label {
+    display: none;
+}
+
+.dropdown-arrow:hover {
+    background-color: #e0e0e0;
+}
